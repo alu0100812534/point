@@ -11,7 +11,7 @@ Add this line to your application's Gemfile:
 gem 'point'
 ```
 
-And then execute:
+And then execu
 
     $ bundle
 
